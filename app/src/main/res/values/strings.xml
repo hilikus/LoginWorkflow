@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Login Workflow</string>
+
+    <!-- Shared Preferences keys used by LoginSessionManager -->
+    <string name="shared_pref_file_key">it.adonadoni.loginworkflow.PREFERENCE_FILE_KEY</string>
+    <string name="shared_pref_islogged_key">isLogged</string>
+    
+    <!-- Menu buttons -->
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+
+    <!-- Login and logout label messages -->
+    <string name="login_label_msg">Logged in</string>
+    <string name="login_in_progress_label_msg">Logging in...</string>
+    <string name="logout_label_msg">Logged out</string>
+    <string name="logout_in_progress_label_msg">Logging out...</string>
+
+    <!-- Login and password labels for login dialog -->
+    <string name="dialog_login_label">Login</string>
+    <string name="dialog_password_label">Password</string>
+    <string name="dialog_login_label_btn">Login</string>
+    <string name="dialog_cancel_label_btn">Cancel</string>
+
+    <string name="error">Error!</string>
+
+</resources>
